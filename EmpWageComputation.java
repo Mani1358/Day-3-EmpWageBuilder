@@ -2,6 +2,7 @@ package com.blz.empwagecomputation;
 
 public class EmpWageComputation {
     public static void main(String[] args) {
+    
         System.out.println("Welcome to EmployeeWage Computation");
         int IS_PART_TIME = 1;
         int IS_FULL_TIME = 2;
