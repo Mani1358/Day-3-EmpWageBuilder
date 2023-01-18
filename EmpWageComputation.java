@@ -1,11 +1,13 @@
 package com.blz.empwagecomputation;
 
 public class EmpWageComputation {
+
        public static final int IS_PART_TIME = 1;
        public static final int IS_FULL_TIME = 2;
        public static final int EMP_RATE_PER_HOUR = 20;
 
        public static void main(String[] args) {
+       
         System.out.println("Welcome to EmployeeWage Computation");
         int empHrs = 0;
         int empwage = 0;
