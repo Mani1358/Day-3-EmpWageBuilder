@@ -7,6 +7,7 @@ public class EmpWageComputation {
     public static final int NUM_OF_WORKING_DAYS = 20;
 
     public static void main(String[] args) {
+    
         System.out.println("Welcome to EmployeeWage Computation");
         int empHrs = 0;
         int empwage = 0;
